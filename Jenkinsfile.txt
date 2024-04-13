@@ -43,4 +43,8 @@ pipeline {
             bat 'kill-port 8081'
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1eda84189d5a5789a6298bf927695861bbb26f5d
